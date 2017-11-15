@@ -1,3 +1,10 @@
+# React * Redux チュートリアル
+試しにココらへんのページを読みながら進めてみる。
+- [アプリの雛形作成方法](https://qiita.com/chibicode/items/8533dd72f1ebaeb4b614)
+- [Redux入門 - Qiita](https://qiita.com/kiita312/items/49a1f03445b19cf407b7)
+- [Redux公式チュートリアル](https://redux.js.org/index.html)
+- [開発環境構築(一部だけ参考に…)](https://qiita.com/wwalpha/items/55f7d52950edff1bdb17)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
